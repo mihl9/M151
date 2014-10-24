@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\xampp\htdocs\test\test.clpprj">
+	<settings><PM_URL><![CDATA[C:/Users/Anwender/AppData/Roaming/ClPhpEd/Projects/]]></PM_URL><PM_HOME_URL><![CDATA[C:/Users/Anwender/AppData/Roaming/ClPhpEd/Projects/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="C:\xampp\htdocs\test\index.php"/>
+		<file name="C:\xampp\htdocs\test\klassen.php"/>
+		<file name="C:\xampp\htdocs\test\Variabeln.php"/>
+		<file name="C:\xampp\htdocs\test\Lampe.php"/>
+		<file name="C:\xampp\htdocs\test\mysql.php"/>
+	</lastopfiles>
+	<codestructure version="5.0">
+		<phptree>
+			<treenode node="PFAD;PHP:PHP Word;C:\xampp\htdocs\test\Variabeln.php;f9;4;13;4;;C:\xampp\htdocs\test\define.php;f9;4;13;4;;;;vpos;;v;;r'./include/';;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="Main;PHP:Class Name;C:\xampp\htdocs\test\klassem.php;f9;24;1;29;;;;vpos;;v;;r;;d19,24;;b0,0;;m">
+				<treenode node="count;PHP:Function Name;C:\xampp\htdocs\test\klassem.php;f15;26;2;28;;;;vpos;;v;;r;;d36,26;;b1,5;;mwert;;p">
+					<treenode node="wert;PHP:Var Name;C:\xampp\htdocs\test\klassem.php;f30;26;35;26;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+			</treenode>
+			<treenode node="meine1;PHP:Class Name;C:\xampp\htdocs\test\klassem.php;f0;35;1;42;;;;vpos;;vtest;;c;;r;;d25,35;;b0,0;;m">
+				<treenode node="__construct;PHP:Function Name;C:\xampp\htdocs\test\klassem.php;f1;37;2;40;;;;vpos;;v;;r;;d23,37;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="test;PHP:Class Name;C:\xampp\htdocs\test\klassen.php;f0;1;1;14;;C:\xampp\htdocs\test\klassem.php;f0;4;1;17;;;;vpos;;v;;r;;d10,4;;b0,0;;m">
+				<treenode node="__construct;PHP:Function Name;C:\xampp\htdocs\test\klassen.php;f1;5;2;7;;C:\xampp\htdocs\test\klassem.php;f1;8;2;10;;;;vpos;;v;;r;;d23,8;;b0,0;;m">
+					<treenode node="this;PHP:Var Name;C:\xampp\htdocs\test\klassem.php;f2;9;7;9;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="test;PHP:Function Name;C:\xampp\htdocs\test\klassen.php;f1;9;2;13;;C:\xampp\htdocs\test\klassem.php;f1;12;2;16;;;;vpos;;v;;r;;d21,12;;b0,0;;mwert;;p">
+					<treenode node="wert;PHP:Var Name;C:\xampp\htdocs\test\klassen.php;f15;9;20;9;;C:\xampp\htdocs\test\klassem.php;f15;12;20;12;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="jaja;PHP:Var Name;C:\xampp\htdocs\test\klassen.php;f8;3;13;3;;C:\xampp\htdocs\test\klassem.php;f8;6;13;6;;;;vpos;;v;;r;;d-1,-1;;b1,0;;m">
+				</treenode>
+				<treenode node="meins;PHP:Var Name;C:\xampp\htdocs\test\klassen.php;f9;2;15;2;;C:\xampp\htdocs\test\klassem.php;f9;5;15;5;;;;vpos;;v;;r;;d-1,-1;;b3,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="GLOBALS;PHP:Var Name;C:\xampp\htdocs\test\define.php;f1;7;9;7;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="hallo;PHP:Var Name;C:\xampp\htdocs\test\klassen.php;f0;16;6;16;;C:\xampp\htdocs\test\klassem.php;f0;19;6;19;;;;vpostest;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="newClass;PHP:Var Name;C:\xampp\htdocs\test\klassem.php;f0;43;9;43;;;;vposmeine1;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+		</phptree>
+		<jstree>
+		</jstree>
+		<scsstree>
+		</scsstree>
+		<lesstree>
+		</lesstree>
+	</codestructure><todoblock>
+	</todoblock>
+	<filescache>
+		<file name="C:\xampp\htdocs\test\Variabeln.php" crc="1759757569"/>
+		<file name="C:\xampp\htdocs\test\mysql.php" crc="1864089178"/>
+		<file name="C:\xampp\htdocs\test\Lampe.php" crc="1122553424"/>
+		<file name="C:\xampp\htdocs\test\klassen.php" crc="-1879094314"/>
+		<file name="C:\xampp\htdocs\test\index.php" crc="1604745361"/>
+	</filescache>
+</project>
